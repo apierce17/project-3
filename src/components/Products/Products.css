@@ -1,0 +1,11 @@
+* {
+    max-width: 100%!important;
+}
+
+body {
+    background-color: var(---light)!important;
+}
+
+.products {
+    padding-top: 20px;
+}

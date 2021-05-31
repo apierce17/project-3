@@ -1,0 +1,32 @@
+:root {
+    --yellow: #dbb468;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #dbb468;
+    --secondary: #6c757d;
+    --warning: #dbb468;
+    --dark: #1a1a1a;
+    --light: #ffffff
+}
+
+.cart-btn {
+    margin-left: auto; 
+    margin-right: 20vw;
+}
+
+.brand-logo {
+    margin-left: 20vw;
+}
+
+.bg-dark {
+    background-color: var(--dark)!important;
+}
+
+.MuiBadge-colorSecondary {
+    background-color: var(--primary)!important;
+    color: var(--dark)!important
+}
+
+.fa-shopping-bag {
+    color: var(--light)!important;
+}

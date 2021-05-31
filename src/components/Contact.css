@@ -1,0 +1,31 @@
+textarea {
+    resize: none;
+}
+
+.btn-primary{
+    background-color: transparent;
+    border-color: var(--primary);
+    width: 60vw!important;
+    margin: auto;
+}
+
+.btn-primary:hover {
+    background-color: var(--primary);
+    border-color: var(--primary);
+    color: var(--dark);
+}
+
+.contact {
+    padding-bottom: 74px;
+    padding-top: 10px;
+    margin-top: auto;
+    text-align: center;
+}
+
+label {
+    text-align: start;
+}
+
+.contact input, textarea {
+    width: 60vw!important;
+}
